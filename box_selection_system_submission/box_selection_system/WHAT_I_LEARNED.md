@@ -1,0 +1,2 @@
+# What I Learned
+I learned a lot by building this Django project. I understand how Django models work, how to validate data like dimensions and weight, and how to select the most suitable shipping box. Writing tests helped me check different cases and find issues early. I also learned how important validation and proper error handling are for real applications. In a production environment, I would focus on improving security, API design, and database optimization.
